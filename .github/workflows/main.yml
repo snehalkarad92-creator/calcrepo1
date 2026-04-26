@@ -2,7 +2,7 @@ name: quality gate check
 on:
     push:
         branches:
-            -main
+            - main
 
 jobs:
     ci-jobs:
